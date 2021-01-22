@@ -10,6 +10,6 @@ The robot was able to obtain voice control functionailities using a serial conne
 Robot Arm design taken from http://www.eezyrobots.it/eba_mk1.html
 
 
-![alt text](https://github.com/Drom0s137/voice_controlled_robot_arm/blob/master/robot_arm.jpg?raw=true =250x250)
+![alt text](https://github.com/Drom0s137/voice_controlled_robot_arm/blob/master/robot_arm.jpg?raw=true width="300" height="400")
 
 ![alt text](https://github.com/Drom0s137/voice_controlled_robot_arm/blob/master/vc_arm.mp4?raw=true =250x250)
