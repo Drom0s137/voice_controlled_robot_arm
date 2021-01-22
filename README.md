@@ -12,4 +12,4 @@ Robot Arm design taken from http://www.eezyrobots.it/eba_mk1.html
 
 <img src="https://github.com/Drom0s137/voice_controlled_robot_arm/blob/master/robot_arm.jpg" width="300" height="400"/>
 
-<img src="https://github.com/Drom0s137/voice_controlled_robot_arm/blob/master/vc_gif.gif" width="300" height="400"/>
+<img src="https://github.com/Drom0s137/voice_controlled_robot_arm/blob/master/vc_gif.gif" width="500" height="400"/>
